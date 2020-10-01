@@ -8,4 +8,5 @@ Most of the repos are about computer vision because that is what I've been doing
 - 🌱 I’m currently learning Keras library
 - 🤔 I’m looking for help with C++
 - ⚡ Fun fact №7837175958: You are too lazy to read this number
-
+                                           
+                                           check out some of my most favorite projects
