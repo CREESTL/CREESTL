@@ -4,7 +4,7 @@ Here you can find all my progress in programming since 2017. Some of the repos m
 Most of the repos are about computer vision because that is what I've been doing for past year or so. But now I'm looking for something new.
 
 ================================================================
-- 🔭 I'm currently studying JS and getting used to Linux
+- 🔭 I'm currently working on sturying Rust and Blockchain development
 - 🌱 I'm always trying to learn something new in Python
 
                                            
